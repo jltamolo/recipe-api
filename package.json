@@ -1,7 +1,8 @@
 {
   "name": "recipe-app",
   "version": "0.1.0",
-  "private": true,
+  "private": true
+  },
   "dependencies": {
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
